@@ -1,4 +1,8 @@
-Here are the simulations from Madgraph. All these samples are for the first radiation length approximation.
+Here are the simulations from Madgraph. All these samples are for the first radiation length approximation. Due to large size of sample file, the samples are moved to the below google drive.
+
+Google drive:
+
+https://drive.google.com/drive/folders/1dHyj4BjHfqAv6PO22GyiLwriO0WGBV10?usp=drive_link
 
 each benchmark has 50k events, except that 1GeV, 2GeV, 3GeV, 4GeV have 500k events.
 
