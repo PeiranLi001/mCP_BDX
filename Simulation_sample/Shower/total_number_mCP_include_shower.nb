@@ -1,0 +1,130 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3813,        122]
+NotebookOptionsPosition[      3315,        105]
+NotebookOutlinePosition[      3766,        123]
+CellTagsIndexPosition[      3723,        120]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"MmCP", "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"10", "^", 
+      RowBox[{"-", "4"}]}], ",", 
+     RowBox[{"2", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "4"}]}]}], ",", 
+     RowBox[{"3", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "4"}]}]}], ",", 
+     RowBox[{"5", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "4"}]}]}], ",", 
+     RowBox[{"8", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "4"}]}]}], ",", 
+     RowBox[{"10", "^", 
+      RowBox[{"-", "3"}]}], ",", 
+     RowBox[{"5", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "3"}]}]}], ",", 
+     RowBox[{"7", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "3"}]}]}], ",", "0.01", ",", "0.03", ",", "0.05", ",", 
+     "0.07", ",", "0.1", ",", "0.5", ",", "0.7", ",", "1", ",", "2", ",", "3",
+      ",", "4"}], "}"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.9361097989219484`*^9, 3.936109809263098*^9}, {
+   3.9361098642897*^9, 3.9361098735805717`*^9}, 
+   3.936110243084627*^9},ExpressionUUID->"a3676427-ef56-4980-8e96-\
+a5506698e33c"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"NmCPbremsstrahlung", "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"5.98", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", 
+     RowBox[{"5.14", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", 
+     RowBox[{"4.64", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", 
+     RowBox[{"3.365", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", 
+     RowBox[{"1.82", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", 
+     RowBox[{"9.55", "*", 
+      RowBox[{"10", "^", "14"}]}], ",", 
+     RowBox[{"6.10", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"1.93", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"1.13", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"6.5", "*", 
+      RowBox[{"10", "^", "11"}]}], ",", 
+     RowBox[{"1.49", "*", 
+      RowBox[{"10", "^", "11"}]}], ",", 
+     RowBox[{"5.2", "*", 
+      RowBox[{"10", "^", "10"}]}], ",", 
+     RowBox[{"1.44", "*", 
+      RowBox[{"10", "^", "10"}]}], ",", 
+     RowBox[{"4.91", "*", 
+      RowBox[{"10", "^", "6"}]}], ",", "423219", ",", "23610", ",", "6.2", 
+     ",", 
+     RowBox[{"6.5", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "3"}]}]}], ",", 
+     RowBox[{"6.4", "*", 
+      RowBox[{"10", "^", 
+       RowBox[{"-", "6"}]}]}]}], "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"NmCPannihilation", "=", 
+   RowBox[{"{", "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"NmCPcompton", "=", 
+   RowBox[{"{", "}"}]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.9361098834248233`*^9, 3.936110101370675*^9}, {
+  3.9361101337730217`*^9, 
+  3.9361102379889083`*^9}},ExpressionUUID->"d0a44fc8-d335-409e-bcaa-\
+da2d1156eade"]
+},
+WindowSize->{583.8, 494.4},
+WindowMargins->{{Automatic, 56.40000000000009}, {
+  37.200000000000045`, Automatic}},
+FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (2022\:5e746\:670816\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"19e7064e-dcb6-4a37-b3e2-dc07baa258be"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 1080, 32, 67, "Input",ExpressionUUID->"a3676427-ef56-4980-8e96-a5506698e33c"],
+Cell[1641, 54, 1670, 49, 143, "Input",ExpressionUUID->"d0a44fc8-d335-409e-bcaa-da2d1156eade"]
+}
+]
+*)
+
