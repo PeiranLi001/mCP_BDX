@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      3908,        123]
-NotebookOptionsPosition[      3410,        106]
-NotebookOutlinePosition[      3861,        124]
-CellTagsIndexPosition[      3818,        121]
+NotebookDataLength[      5826,        173]
+NotebookOptionsPosition[      5325,        156]
+NotebookOutlinePosition[      5778,        174]
+CellTagsIndexPosition[      5735,        171]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -95,18 +95,68 @@ Cell[BoxData[{
        RowBox[{"-", "5"}]}]}]}], "}"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"NmCPannihilation", "=", 
-   RowBox[{"{", "}"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.36", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.35", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"1.30", "*", 
+      RowBox[{"10", "^", "15"}]}], ",", " ", 
+     RowBox[{"3.66", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", " ", "0", ",", " ", "0", ",", " ", 
+     "0", ",", " ", "0", ",", " ", "0", ",", " ", "0", ",", " ", "0", ",", 
+     " ", "0", ",", " ", "0"}], "}"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"NmCPcompton", "=", 
-   RowBox[{"{", "}"}]}], ";"}]}], "Input",
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"4.45", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"3.77", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", " ", 
+     RowBox[{"3.39", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"2.89", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"2.43", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"2.2", "*", 
+      RowBox[{"10", "^", "13"}]}], ",", 
+     RowBox[{"7.4", "*", 
+      RowBox[{"10", "^", "12"}]}], ",", 
+     RowBox[{"4.8", "*", 
+      RowBox[{"10", "^", "12"}]}], ",", 
+     RowBox[{"2.6", "*", 
+      RowBox[{"10", "^", "12"}]}], ",", 
+     RowBox[{"3.14", "*", 
+      RowBox[{"10", "^", "10"}]}], ",", 
+     RowBox[{"1.6", "*", 
+      RowBox[{"10", "^", "5"}]}], ",", "0", ",", " ", "0", ",", " ", "0", ",",
+      " ", "0", ",", " ", "0", ",", " ", "0", ",", " ", "0", ",", " ", "0"}], 
+    "}"}]}], ";"}]}], "Input",
  CellChangeTimes->{{3.9361098834248233`*^9, 3.936110101370675*^9}, {
   3.9361101337730217`*^9, 3.9361102379889083`*^9}, {3.936129649064337*^9, 
-  3.936129820379966*^9}},ExpressionUUID->"d0a44fc8-d335-409e-bcaa-\
+  3.936129820379966*^9}, {3.9363124764574394`*^9, 3.9363125568216743`*^9}, {
+  3.936316787179576*^9, 3.9363168718799047`*^9}, {3.936316921457034*^9, 
+  3.936316922501559*^9}},ExpressionUUID->"d0a44fc8-d335-409e-bcaa-\
 da2d1156eade"]
 },
 WindowSize->{583.8, 494.4},
-WindowMargins->{{Automatic, 90.60000000000014}, {
-  22.800000000000068`, Automatic}},
+WindowMargins->{{Automatic, 154.80000000000007`}, {
+  Automatic, 34.199999999999996`}},
 FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (2022\:5e746\:670816\
 \:65e5)",
 StyleDefinitions->"Default.nb",
@@ -124,7 +174,7 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[558, 20, 1080, 32, 67, "Input",ExpressionUUID->"a3676427-ef56-4980-8e96-a5506698e33c"],
-Cell[1641, 54, 1765, 50, 143, "Input",ExpressionUUID->"d0a44fc8-d335-409e-bcaa-da2d1156eade"]
+Cell[1641, 54, 3680, 100, 238, "Input",ExpressionUUID->"d0a44fc8-d335-409e-bcaa-da2d1156eade"]
 }
 ]
 *)
