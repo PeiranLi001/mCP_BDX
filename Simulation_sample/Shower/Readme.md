@@ -1,8 +1,4 @@
-Here are the simulated samples.
-
-The first radiation length approximation is in ./Madgraph_simulation
-
-The shower, (including bremsstrahlung(trident), annihilation, Compton process), is in ./Shower
+Here are the simulated samples, including shower. (including bremsstrahlung(trident), annihilation, Compton process)
 
 bremsstrahlung process: e- N -> e- N mCP+ mCP-
 
@@ -18,9 +14,9 @@ https://drive.google.com/drive/folders/1dHyj4BjHfqAv6PO22GyiLwriO0WGBV10?usp=dri
 
 For example:
 
-the benchmark for Mass of mCP is 0.1 GeV, produced by annihilation, please use ./Shower/annihilation/m_1e_1GeV/m_1e_1GeV.csv
+the benchmark for Mass of mCP is 0.1 GeV, produced by annihilation, please use ./annihilation/m_1e_1GeV/m_1e_1GeV.csv
 
-don't use ./Shower/annihilation/m_1e_1GeV/m_1e_1GeV_10GeV.csv , ./Shower/annihilation/m_1e_1GeV/m_1e_1GeV_9GeV.csv , ...
+don't use ./annihilation/m_1e_1GeV/m_1e_1GeV_10GeV.csv , ./annihilation/m_1e_1GeV/m_1e_1GeV_9GeV.csv , ...
 
 Inside the .csv sample file, each row refers to one mCP's 4-momentum and weight: {px, py, pz, E, weight}.
 
