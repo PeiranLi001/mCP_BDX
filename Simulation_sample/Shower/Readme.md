@@ -14,11 +14,13 @@ https://drive.google.com/drive/folders/1dHyj4BjHfqAv6PO22GyiLwriO0WGBV10?usp=dri
 
 For example:
 
-the benchmark for Mass of mCP is 0.1 GeV, produced by annihilation, please use ./annihilation/m_1e_1GeV/m_1e_1GeV.csv
+the benchmark for Mass of mCP is 0.001 GeV, produced by annihilation, please use ./annihilation/m_1e_3GeV/m_1e_3GeV.csv
 
-don't use ./annihilation/m_1e_1GeV/m_1e_1GeV_10GeV.csv , ./annihilation/m_1e_1GeV/m_1e_1GeV_9GeV.csv , ...
+don't use ./annihilation/m_1e_3GeV/m_1e_3GeV_10GeV.csv , ./annihilation/m_1e_3GeV/m_1e_3GeV_9GeV.csv , ...
 
 Inside the .csv sample file, each row refers to one mCP's 4-momentum and weight: {px, py, pz, E, weight}.
+
+Sometimes it is empty in the .csv sample file, because the total production is zero.
 
 total_number_mCP_include_shower.nb includes the total number of mCP and anti-mCP for production.
 
