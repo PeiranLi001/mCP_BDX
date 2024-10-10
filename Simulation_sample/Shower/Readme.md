@@ -1,4 +1,4 @@
-Here are the simulated samples, including shower. (including bremsstrahlung(trident), annihilation, Compton process)
+Here are the simulated samples, including shower. (including bremsstrahlung(trident), annihilation, Compton process) (100 MeV threshold)
 
 bremsstrahlung process: e- N -> e- N mCP+ mCP-
 
